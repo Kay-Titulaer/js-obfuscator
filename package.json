@@ -1,0 +1,10 @@
+{
+    "name": "js-obfuscator",
+    "version": "0.1.0",
+    "description": "obfuscate javascript code",
+    "devDependencies": {
+        "esbuild": "^0.14.39",
+        "javascript-obfuscator": "^4.0.0"
+    },
+    "dependencies": {}
+}
